@@ -1,0 +1,9 @@
+/(^[A-Z])[a-z]+([0-9]{1})/gm
+"Sozun ilk h?rfi boyuk, sonra ist?nil?n q?d?r kicik h?rf v? sonra yaln?z bir r?q?m" olsun;
+-----------------------------------------------------------
+
+
+/[A-Za-z0-9]/g
+"String-d? ?n az? bir boyuk, bir kicik h?rf v? bir r?q?m olsun"
+-------------------------------------------------------------------
+[\s] 
